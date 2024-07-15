@@ -6,6 +6,6 @@ public class KatoHanako_Chapter18 extends Kato_Chapter18 {
 	}
 	
 	public void eachIntoroduce() {
-		System.out.println("趣味は読書です");
+		System.out.println("趣味は読書です\n");
 	}
 }

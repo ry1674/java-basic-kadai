@@ -5,7 +5,7 @@ public class KatoTaro_Chapter18 extends Kato_Chapter18 {
 		givenName = "太郎";
 	}
 	public void eachIntoroduce() {
-		System.out.println("私はJavaが得意です");
+		System.out.println("Javaが得意です\n");
 	}
 
 }

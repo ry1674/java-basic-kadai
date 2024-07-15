@@ -5,6 +5,6 @@ public class KatoIchiro_Chapter18 extends Kato_Chapter18 {
 		givenName = "一郎";
 	}
 	public void eachIntoroduce() {
-		System.out.println("好きな食べ物はリンゴです");
+		System.out.println("好きな食べ物はリンゴです\n");
 	}
 }
